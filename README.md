@@ -25,3 +25,5 @@ I made the Space Shooter. I used the Unity Editor and C# for coding. I want to e
 -UI
 
 Github: https://github.com/burakTuran00/SpaceShooter/tree/main
+
+Assets I used: https://www.kenney.nl/assets/space-shooter-redux
